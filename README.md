@@ -65,7 +65,7 @@ Bu bölümde, Python'un en güçlü görselleştirme kütüphanelerinden biri ol
 
 - Fatal Police Shootings in the US: Bu veri seti üzerinde fakirlik oranları, lise mezuniyet oranları ve ırksal demografi gibi birçok farklı açıdan görselleştirme çalışılmıştır.
 
-![Seaborn](images/1.png)
+![Seaborn](images/1.jpg)
 
 
 <br><br>
