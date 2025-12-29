@@ -111,6 +111,10 @@ Bu aşamada, statik grafiklerin ötesine geçerek kullanıcı etkileşimine izin
 ### 📋 Uygulanan Veri Seti:
 
 - World University Rankings: Üniversitelerin dünya çapındaki başarı kriterlerini içeren kapsamlı veri seti.
+
+![Plotly](images/Screenshot_1.jpg)
+<br><br>
+![Plotly](images/Screenshot_2.jpg)
 <br><br>
 <br><br>
 
@@ -136,6 +140,8 @@ Bu bölümde, verilerin dünya haritası üzerinde nasıl görselleştirileceği
 - World University Rankings (Geographical): Üniversitelerin bulunduğu ülkelerin akademik performans skorlarının dünya haritası üzerindeki dağılımı.
 
 - Aerial Bombing Operations (WW2): İkinci Dünya Savaşı sırasındaki hava operasyonlarının lokasyon bazlı görselleştirilmesi.
+
+![Plotly](images/Screenshot_3.jpg)
 <br><br>
 <br><br>
 
@@ -161,6 +167,9 @@ Bu bölümde, zaman damgalı verilerin nasıl işleneceği ve tarihsel olayları
 - Aerial Bombing Operations (WW2): İkinci Dünya Savaşı'ndaki hava saldırılarının tarihlere, ülkelere ve hedef türlerine göre detaylı dökümü.
 
 - Weather Conditions (WW2): Savaş dönemindeki hava durumu istasyonlarından gelen verilerin analizi.
+
+![Plotly](images/Screenshot_4.jpg)
+
 <br><br>
 <br><br>
 
@@ -190,3 +199,14 @@ Veri biliminde sıklıkla kullanılan temel grafiklerin ötesine geçerek, keşi
 - Iris Species: Botanik verilerinin çok boyutlu analizi.
 
 - Titanic: Yolcu verilerindeki eksik bilgilerin missingno ile analizi.
+
+
+
+![Plotly](images/Screenshot_5.jpg)
+<br><br>
+![Plotly](images/Screenshot_6.jpg)
+<br><br>
+![Plotly](images/Screenshot_7.jpg)
+<br><br>
+![Plotly](images/Screenshot_8.jpg)
+<br><br>
