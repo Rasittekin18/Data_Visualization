@@ -35,7 +35,7 @@ Kurs süresince aşağıdaki gerçek dünya veri setleri üzerinde uygulamalar y
 
 7. Titanic: Klasik hayatta kalma analizi ve demografik veriler.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🎨 1. Veri Görselleştirme: Seaborn ile Derin Dalış (Seaborn)
 
@@ -63,7 +63,7 @@ Bu bölümde, Python'un en güçlü görselleştirme kütüphanelerinden biri ol
 
 - Fatal Police Shootings in the US: Bu veri seti üzerinde fakirlik oranları, lise mezuniyet oranları ve ırksal demografi gibi birçok farklı açıdan görselleştirme çalışılmıştır.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 📊 2. İnteraktif Görselleştirme: Plotly ile Etkileşimli Analizler (Plotly_0)
@@ -101,7 +101,7 @@ Bu aşamada, statik grafiklerin ötesine geçerek kullanıcı etkileşimine izin
 - World University Rankings: Üniversitelerin dünya çapındaki başarı kriterlerini içeren kapsamlı veri seti.
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🗺️ 3. Coğrafi ve İnteraktif Haritalama: Plotly Choropleth (Plotly_1)
 
@@ -123,7 +123,7 @@ Bu bölümde, verilerin dünya haritası üzerinde nasıl görselleştirileceği
 
 - Aerial Bombing Operations (WW2): İkinci Dünya Savaşı sırasındaki hava operasyonlarının lokasyon bazlı görselleştirilmesi.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ⏳ 4. Zaman Serisi ve Karmaşık Veri Analizi: Plotly Advanced  (Plotly_2)
@@ -146,7 +146,7 @@ Bu bölümde, zaman damgalı verilerin nasıl işleneceği ve tarihsel olayları
 
 - Weather Conditions (WW2): Savaş dönemindeki hava durumu istasyonlarından gelen verilerin analizi.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 🧪 5. Nadir Kullanılan Görselleştirme Araçları (Rare Visualization Tools)
