@@ -61,3 +61,112 @@ Bu bölümde, Python'un en güçlü görselleştirme kütüphanelerinden biri ol
 📋 Uygulanan Veri Setleri:
 
 - Fatal Police Shootings in the US: Bu veri seti üzerinde fakirlik oranları, lise mezuniyet oranları ve ırksal demografi gibi birçok farklı açıdan görselleştirme çalışılmıştır.
+
+
+
+
+📊 2. İnteraktif Görselleştirme: Plotly ile Etkileşimli Analizler
+Bu aşamada, statik grafiklerin ötesine geçerek kullanıcı etkileşimine izin veren (zoom, hover, filtreleme) Plotly kütüphanesi kullanılmıştır. Analizler sırasında "Dünya Üniversite Sıralamaları" veri seti temel alınmıştır.
+
+🚀 Kullanılan Grafik Türleri ve Teknikler:
+
+    Line Charts: Üniversitelerin yıllara göre alıntı ve öğretim skorlarının karşılaştırılması.
+
+    Scatter Charts: Farklı yıllardaki üniversite sıralamaları arasındaki korelasyonun incelenmesi.
+    
+    Bar Charts: En iyi üniversitelerin çeşitli kriterlere göre (öğretim, alıntı vb.) kıyaslanması.
+    
+    Pie Charts: Üniversitelerin dünya sıralamasındaki oranlarının ve sayısal dağılımlarının görselleştirilmesi.
+    
+    Bubble Charts: Üçüncü bir değişkenin (üniversite skoru gibi) daire boyutuyla temsil edildiği gelişmiş dağılım grafikleri.
+    
+    Histogram: Üniversitelerin öğrenci-öğretmen oranları gibi sayısal verilerin dağılım sıklığı.
+    
+    Word Cloud: Veri setindeki metinsel yoğunlukların (örneğin üniversite isimleri veya ülkeler) görselleştirilmesi.
+    
+    Box Plots: Verilerin istatistiksel dağılımı ve aykırı (outlier) değerlerin tespiti.
+    
+    Scatter Plot Matrix: Birden fazla değişken arasındaki tüm olası ikili ilişkilerin aynı anda görülmesi.
+
+    Inset Plots: Büyük bir grafiğin içine daha detaylı bir alt grafik ekleme tekniği.
+    
+    3D Scatter Plot: Verilerin üç boyutlu uzayda (z-ekseni dahil) görselleştirilmesi.
+    
+    Multiple Subplots: Aynı figür içerisinde farklı veri görünümlerinin yan yana veya alt alta sergilenmesi.
+
+📋 Uygulanan Veri Seti:
+
+- World University Rankings: Üniversitelerin dünya çapındaki başarı kriterlerini içeren kapsamlı veri seti.
+
+
+
+
+🗺️ 3. Coğrafi ve İnteraktif Haritalama: Plotly Choropleth
+
+Bu bölümde, verilerin dünya haritası üzerinde nasıl görselleştirileceği ve zaman serisi bazlı animasyonların nasıl oluşturulacağı üzerine odaklanılmıştır.
+
+🌍 Öğrenilen Teknikler ve Haritalama Türleri:
+
+    Choropleth Maps: Ülkelerin veya bölgelerin belirli bir istatistiğe (Örn: GDP, Okur-yazarlık oranı) göre renk tonlarıyla ayrıştırılması.
+    
+    Animated Maps: Verilerin yıllara göre değişimini gösteren zaman sürgülü (slider) animasyonlu dünya haritaları.
+    
+    Geographical Data Processing: Ülke isimlerinin ve kodlarının harita üzerinde doğru konumlandırılması için veri manipülasyonu.
+    
+    Custom Tooltips: Harita üzerinde bir ülkenin üzerine gelindiğinde o ülkeye özel detaylı bilgilerin (hover info) gösterilmesi.
+
+📋 Uygulanan Veri Setleri:
+
+- World University Rankings (Geographical): Üniversitelerin bulunduğu ülkelerin akademik performans skorlarının dünya haritası üzerindeki dağılımı.
+
+- Aerial Bombing Operations (WW2): İkinci Dünya Savaşı sırasındaki hava operasyonlarının lokasyon bazlı görselleştirilmesi.
+
+
+
+
+⏳ 4. Zaman Serisi ve Karmaşık Veri Analizi: Plotly Advanced
+
+Bu bölümde, zaman damgalı verilerin nasıl işleneceği ve tarihsel olayların veri görselleştirme yoluyla nasıl hikayeleştirileceği üzerine çalışılmıştır.
+
+📉 Öğrenilen Teknikler ve Görselleştirme Stratejileri:
+
+    Time Series Analysis: Verilerin zaman içindeki değişimini gözlemlemek için özelleştirilmiş çizgi grafikleri.
+    
+    Bubble Charts with Time: Zaman ekseninde değişen balon grafikleri ile üç farklı değişkenin (tarih, miktar ve tür) eş zamanlı analizi.
+    
+    Data Aggregation for Visualization: Büyük veri setlerinin (WW2 Bombardıman verileri gibi) görselleştirilmeden önce tarih ve kategori bazlı gruplandırılması.
+    
+    Multiple Plot Layouts: Farklı saldırı tiplerinin veya ülkelerin performanslarının yan yana (subplots) karşılaştırılması.
+
+📋 Uygulanan Veri Setleri:
+
+- Aerial Bombing Operations (WW2): İkinci Dünya Savaşı'ndaki hava saldırılarının tarihlere, ülkelere ve hedef türlerine göre detaylı dökümü.
+
+- Weather Conditions (WW2): Savaş dönemindeki hava durumu istasyonlarından gelen verilerin analizi.
+
+
+
+
+🧪 5. Nadir Kullanılan Görselleştirme Araçları (Rare Visualization Tools)
+
+Veri biliminde sıklıkla kullanılan temel grafiklerin ötesine geçerek, keşifsel veri analizi (EDA) sürecini zenginleştiren ve veri setindeki gizli kalmış detayları ortaya çıkaran özel kütüphaneler incelenmiştir.
+
+🛠️ İncelenen Özel Kütüphaneler ve Teknikler:
+
+    Missingno: Veri setindeki eksik verilerin (missing values) dağılımını ve yoğunluğunu hızlıca tespit etmek için kullanılmıştır.
+    
+    Parallel Plots (Pandas): Çok boyutlu verileri (örneğin Iris veri setindeki 4 farklı özellik) aynı anda görselleştirerek sınıflar arasındaki ayrımı gözlemleme.
+    
+    NetworkX: Veriler arasındaki ağ yapılarını ve ilişkisel bağlantıları (Nodes & Edges) görselleştirme.
+    
+    Venn Diagram (Matplotlib-Venn): Gruplar arasındaki kesişim ve farkları küme diyagramları ile ifade etme.
+    
+    Donut Chart: Pie chart'ın daha modern bir versiyonu olarak veri oranlarını gösterme.
+    
+    3D Scatter Plots (Plotly): Üç farklı sayısal değişkenin birbirine göre konumunu 3 boyutlu uzayda inceleme.
+
+📋 Uygulanan Veri Setleri:
+
+- Iris Species: Botanik verilerinin çok boyutlu analizi.
+
+- Titanic: Yolcu verilerindeki eksik bilgilerin missingno ile analizi.
