@@ -35,8 +35,9 @@ Kurs süresince aşağıdaki gerçek dünya veri setleri üzerinde uygulamalar y
 
 7. Titanic: Klasik hayatta kalma analizi ve demografik veriler.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎨 1. Veri Görselleştirme: Seaborn ile Derin Dalış
+🎨 1. Veri Görselleştirme: Seaborn ile Derin Dalış (Seaborn)
 
 Bu bölümde, Python'un en güçlü görselleştirme kütüphanelerinden biri olan Seaborn kullanılarak karmaşık veri setleri üzerinde detaylı analizler yapılmıştır.
 
@@ -65,7 +66,8 @@ Bu bölümde, Python'un en güçlü görselleştirme kütüphanelerinden biri ol
 
 
 
-📊 2. İnteraktif Görselleştirme: Plotly ile Etkileşimli Analizler
+📊 2. İnteraktif Görselleştirme: Plotly ile Etkileşimli Analizler (Plotly_0)
+
 Bu aşamada, statik grafiklerin ötesine geçerek kullanıcı etkileşimine izin veren (zoom, hover, filtreleme) Plotly kütüphanesi kullanılmıştır. Analizler sırasında "Dünya Üniversite Sıralamaları" veri seti temel alınmıştır.
 
 🚀 Kullanılan Grafik Türleri ve Teknikler:
@@ -101,7 +103,7 @@ Bu aşamada, statik grafiklerin ötesine geçerek kullanıcı etkileşimine izin
 
 
 
-🗺️ 3. Coğrafi ve İnteraktif Haritalama: Plotly Choropleth
+🗺️ 3. Coğrafi ve İnteraktif Haritalama: Plotly Choropleth (Plotly_1)
 
 Bu bölümde, verilerin dünya haritası üzerinde nasıl görselleştirileceği ve zaman serisi bazlı animasyonların nasıl oluşturulacağı üzerine odaklanılmıştır.
 
@@ -124,7 +126,7 @@ Bu bölümde, verilerin dünya haritası üzerinde nasıl görselleştirileceği
 
 
 
-⏳ 4. Zaman Serisi ve Karmaşık Veri Analizi: Plotly Advanced
+⏳ 4. Zaman Serisi ve Karmaşık Veri Analizi: Plotly Advanced  (Plotly_2)
 
 Bu bölümde, zaman damgalı verilerin nasıl işleneceği ve tarihsel olayların veri görselleştirme yoluyla nasıl hikayeleştirileceği üzerine çalışılmıştır.
 
