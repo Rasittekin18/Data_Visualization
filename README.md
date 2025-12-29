@@ -1,22 +1,24 @@
-📊 Data Visualization: Comprehensive Guide & Projects
+📊 Data Visualization:
+
 Bu depo, veri görselleştirme dünyasına adım attığım ve farklı kütüphaneleri kullanarak çeşitli veri setlerini analiz ettiğim kapsamlı bir öğrenme sürecini içermektedir. Kurs boyunca veriyi anlamlandırmak, desenleri keşfetmek ve bilgiyi görsel bir hikayeye dönüştürmek üzerine çalışmalar gerçekleştirdim.
 
 🛠️ Kullanılan Araçlar ve Kütüphaneler
 Proje kapsamında veriyi görselleştirmek için popüler ve güçlü Python kütüphanelerinden yararlanılmıştır:
 
-Temel Görselleştirme: Matplotlib, Seaborn, ggplot, Pandas Visualization
+    Temel Görselleştirme: Matplotlib, Seaborn, ggplot, Pandas Visualization
 
-İnteraktif Grafikler: Plotly, Bokeh, Pygal
+    İnteraktif Grafikler: Plotly, Bokeh, Pygal
 
-Özel Alanlar: * Kayıp Veri Analizi: Missingno
+    Özel Alanlar: * Kayıp Veri Analizi: Missingno
 
-Ağ Analizi: NetworkX
+    Ağ Analizi: NetworkX
 
-Coğrafi Veriler: Geoplotlib
+    Coğrafi Veriler: Geoplotlib
 
-Diğer: Leather, Gleam
+    Diğer: Leather, Gleam
 
 📂 Analiz Edilen Veri Setleri
+
 Kurs süresince aşağıdaki gerçek dünya veri setleri üzerinde uygulamalar yapılmıştır:
 
 1. Iris Species: Botanik veri analizi.
