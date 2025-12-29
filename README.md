@@ -1,4 +1,4 @@
-📊 Data Visualization:
+# 📊 Data Visualization:
 
 Bu depo, veri görselleştirme dünyasına adım attığım ve farklı kütüphaneleri kullanarak çeşitli veri setlerini analiz ettiğim kapsamlı bir öğrenme sürecini içermektedir. Kurs boyunca veriyi anlamlandırmak, desenleri keşfetmek ve bilgiyi görsel bir hikayeye dönüştürmek üzerine çalışmalar gerçekleştirdim.
 
