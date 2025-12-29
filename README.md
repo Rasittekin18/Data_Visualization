@@ -34,7 +34,11 @@ Kurs süresince aşağıdaki gerçek dünya veri setleri üzerinde uygulamalar y
 6. Fatal Police Shootings in the US: ABD'deki polis müdahaleleri verileri.
 
 7. Titanic: Klasik hayatta kalma analizi ve demografik veriler.
-
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🎨 1. Veri Görselleştirme: Seaborn ile Derin Dalış (Seaborn)
@@ -62,7 +66,11 @@ Bu bölümde, Python'un en güçlü görselleştirme kütüphanelerinden biri ol
 📋 Uygulanan Veri Setleri:
 
 - Fatal Police Shootings in the US: Bu veri seti üzerinde fakirlik oranları, lise mezuniyet oranları ve ırksal demografi gibi birçok farklı açıdan görselleştirme çalışılmıştır.
-
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -99,7 +107,11 @@ Bu aşamada, statik grafiklerin ötesine geçerek kullanıcı etkileşimine izin
 📋 Uygulanan Veri Seti:
 
 - World University Rankings: Üniversitelerin dünya çapındaki başarı kriterlerini içeren kapsamlı veri seti.
-
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -122,7 +134,11 @@ Bu bölümde, verilerin dünya haritası üzerinde nasıl görselleştirileceği
 - World University Rankings (Geographical): Üniversitelerin bulunduğu ülkelerin akademik performans skorlarının dünya haritası üzerindeki dağılımı.
 
 - Aerial Bombing Operations (WW2): İkinci Dünya Savaşı sırasındaki hava operasyonlarının lokasyon bazlı görselleştirilmesi.
-
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -145,7 +161,11 @@ Bu bölümde, zaman damgalı verilerin nasıl işleneceği ve tarihsel olayları
 - Aerial Bombing Operations (WW2): İkinci Dünya Savaşı'ndaki hava saldırılarının tarihlere, ülkelere ve hedef türlerine göre detaylı dökümü.
 
 - Weather Conditions (WW2): Savaş dönemindeki hava durumu istasyonlarından gelen verilerin analizi.
-
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
